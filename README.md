@@ -1,4 +1,4 @@
-# Projet Injection ELF (ISOS)
+# Projet Injection ELF
 
 Ce dépôt contient le code source et les ressources associées au Projet ISOS.
 
