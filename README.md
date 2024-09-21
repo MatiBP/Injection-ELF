@@ -1,6 +1,6 @@
 # Projet Injection ELF
 
-Ce dépôt contient le code source et les ressources associées au Projet ISOS.
+Ce projet vise à éditer statiquement un fichier ELF pour y injecter du code personnalisé en modifiant sa structure binaire et redirigeant son flux d'exécution vers le nouveau code injecté. 
 
 ## Rapport Vidéo
 
